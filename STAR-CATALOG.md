@@ -1,11 +1,11 @@
 # ⭐ Star 收藏分类目录
 
-这是对 [HappyStupidChild 的全部 Star](https://github.com/HappyStupidChild?tab=stars) 所做的分类快照。
+这是对 [HappyStupidChild 的全部 Star](https://github.com/HappyStupidChild?tab=stars) 所做的自动分类目录。
 
-- 更新时间：2026-08-14
 - Star 总数：162
 - 分类数量：10
 - 分类原则：按项目的主要用途归档；具有交叉属性的项目只放入一个主分类
+- 维护方式：GitHub Actions 每日自动检查并更新
 
 [← 返回个人主页](./README.md)
 
