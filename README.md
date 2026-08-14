@@ -48,50 +48,98 @@
 
 ## 🔭 我的开源雷达
 
+<div align="center">
+
+![公开仓库](https://img.shields.io/badge/公开仓库-20-181717?style=flat-square&logo=github)
+![Fork](https://img.shields.io/badge/Fork-19-2563EB?style=flat-square&logo=git)
+![Star 收藏](https://img.shields.io/badge/Star_收藏-162-FFB000?style=flat-square&logo=githubsponsors)
+![兴趣分类](https://img.shields.io/badge/兴趣分类-10-7C3AED?style=flat-square&logo=radar)
+
+</div>
+
+### 我的仓库地图
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI 与智能体</h3>
-      <p>关注智能编码、Agent 技能生态，以及真正能提升开发效率的工具。</p>
+      <h3>🤖 AI、智能体与研究</h3>
       <p>
         <a href="https://github.com/HappyStupidChild/skillhub"><code>skillhub</code></a>
         &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/claw-code"><code>claw-code</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/claw-code-parity"><code>claw-code-parity</code></a>
+        &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/iflow-cli"><code>iflow-cli</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/Deep_Learning-Notebook"><code>Deep Learning Notebook</code></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Android 生态</h3>
-      <p>探索 Android 系统能力、无障碍自动化与实用工具。</p>
+      <h3>📱 Android 与移动生态</h3>
       <p>
         <a href="https://github.com/HappyStupidChild/Shizuku"><code>Shizuku</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/gkd"><code>GKD</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/Nrfr"><code>Nrfr</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/v2rayNG"><code>v2rayNG</code></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ 自动化工具</h3>
-      <p>收集能减少重复操作的脚本、CLI 与跨平台工作流。</p>
+      <h3>🌐 网络、代理与下载</h3>
       <p>
-        <a href="https://github.com/HappyStupidChild/Windows-Scripts"><code>Windows Scripts</code></a>
+        <a href="https://github.com/HappyStupidChild/FlClash"><code>FlClash</code></a>
         &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/reinstall"><code>reinstall</code></a>
+        <a href="https://github.com/HappyStupidChild/v2rayN"><code>v2rayN</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/clash-verge-rev"><code>Clash Verge Rev</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/aria2.sh"><code>aria2.sh</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/Aria2-Explorer"><code>Aria2 Explorer</code></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 网络与自托管</h3>
-      <p>关注现代网络客户端、跨平台体验与可掌控的自托管服务。</p>
+      <h3>🖥️ Windows、运维与自动化</h3>
       <p>
-        <a href="https://github.com/HappyStupidChild/clash-verge-rev"><code>Clash Verge Rev</code></a>
+        <a href="https://github.com/HappyStupidChild/Windows-Scripts"><code>Windows Scripts</code></a>
         &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/v2rayN"><code>v2rayN</code></a>
+        <a href="https://github.com/HappyStupidChild/patch-edge-copilot"><code>Edge Copilot Patch</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/reinstall"><code>reinstall</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/HEU_KMS_Activator"><code>HEU KMS</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/tiktokmodcloud"><code>tiktokmodcloud</code></a>
       </p>
     </td>
   </tr>
 </table>
 
-> 说明：以上主要是我关注，或为学习、测试和参考而 Fork 的优秀开源项目；项目版权与成果属于原作者和贡献者。
+### Star 兴趣分布
+
+| 分类 | 数量 | 代表项目 |
+| --- | ---: | --- |
+| 🤖 AI 智能体与开发工具 | 44 | LangChain、OpenCode、OpenClaw、Agent Skills |
+| 🧠 大模型、RAG 与生成式 AI | 16 | DeepSeek、RAG-Anything、Open WebUI |
+| 👁️ 计算机视觉与模型部署 | 36 | YOLO、PaddleDetection、MNN、LiteRT |
+| 📚 数据集、论文与科研资料 | 25 | OHR-Bench、GPR、医疗 NLP、调优手册 |
+| 📱 Android 与移动生态 | 9 | Shizuku、GKD、ADB、QtScrcpy |
+| 🌐 网络代理、下载与自托管 | 7 | Clash、v2ray、aria2、自托管服务 |
+| 🖥️ Windows、系统与运维脚本 | 10 | Windows 脚本、ViVe、重装与运维工具 |
+| ⚙️ 自动化、爬虫与效率工具 | 6 | EasySpider、CLI、下载与归档自动化 |
+| 🧩 编程学习、设计与资源导航 | 5 | Build Your Own X、设计与学习资源 |
+| 🎲 其他工具与兴趣项目 | 4 | 数据分析与实验性项目 |
+
+<div align="center">
+  <a href="./STAR-CATALOG.md"><strong>查看 162 个 Star 的完整分类目录 →</strong></a>
+</div>
+
+> 数据快照：2026-08-14。分类按项目的主要用途归档，具有交叉属性的项目只放入一个主分类。我的 19 个功能仓库均为 Fork，版权与成果属于原作者和贡献者。
 
 ## 🐍 贡献轨迹
 
@@ -100,10 +148,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HappyStupidChild/HappyStupidChild/output/github-snake.svg" />
   <img alt="动态贡献轨迹" src="https://raw.githubusercontent.com/HappyStupidChild/HappyStupidChild/output/github-snake.svg" width="100%" />
 </picture>
-
-<div align="center">
-  <sub>根据 GitHub 贡献记录每日自动生成 · 支持明暗主题</sub>
-</div>
 
 ## 🚀 最近在做
 
@@ -124,4 +168,3 @@
   <p><strong>梦想一点点，探索多一点，创造些有用的东西。</strong></p>
   <sub>⚡ 好奇心持续加载中…… ⚡</sub>
 </div>
-
