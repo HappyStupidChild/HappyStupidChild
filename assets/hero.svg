@@ -1,6 +1,6 @@
 <svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">HappyStupidChild — Dream, Explore, Build</title>
-  <desc id="desc">Animated cyber-space GitHub profile banner.</desc>
+  <title id="title">HappyStupidChild — 保持好奇，持续探索</title>
+  <desc id="desc">带有霓虹光效、轨道粒子和动态网格的中文个人主页横幅。</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
       <stop stop-color="#050816">
@@ -93,14 +93,14 @@
 
   <rect x="424" y="65" width="352" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
   <circle cx="447" cy="82" r="5" fill="#5EFCE8"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
-  <text x="464" y="88" fill="#CCD9F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="1.6">SYSTEM.ONLINE // STATUS: CURIOUS</text>
+  <text x="464" y="88" fill="#CCD9F2" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, ui-sans-serif, system-ui, sans-serif" font-size="14" letter-spacing="1.4">系统在线 // 好奇心持续加载中</text>
 
-  <text x="600" y="178" text-anchor="middle" fill="#F8FAFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="57" font-weight="780" letter-spacing="-1.6">DREAM. EXPLORE.</text>
-  <text x="600" y="246" text-anchor="middle" fill="url(#neon)" filter="url(#softGlow)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="59" font-weight="800" letter-spacing="1">BUILD.</text>
+  <text x="600" y="178" text-anchor="middle" fill="#F8FAFF" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, ui-sans-serif, system-ui, sans-serif" font-size="58" font-weight="780" letter-spacing="5">保持好奇</text>
+  <text x="600" y="246" text-anchor="middle" fill="url(#neon)" filter="url(#softGlow)" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, ui-sans-serif, system-ui, sans-serif" font-size="58" font-weight="800" letter-spacing="5">持续探索</text>
 
   <path d="M450 286H750" stroke="url(#neon)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="300" filter="url(#softGlow)">
     <animate attributeName="stroke-dashoffset" values="300;0;-300" dur="4s" repeatCount="indefinite"/>
   </path>
-  <text x="600" y="322" text-anchor="middle" fill="#9FB1D2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="3">HAPPYSTUPIDCHILD.EXE</text>
-  <rect x="709" y="310" width="8" height="14" rx="1" fill="#5EFCE8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+  <text x="600" y="322" text-anchor="middle" fill="#9FB1D2" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, ui-sans-serif, system-ui, sans-serif" font-size="14" letter-spacing="3">在开源世界里寻找有趣的答案</text>
+  <rect x="742" y="309" width="8" height="15" rx="1" fill="#5EFCE8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
