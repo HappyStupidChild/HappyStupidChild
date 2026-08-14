@@ -1,0 +1,45 @@
+name: 自动同步个人主页分类
+
+on:
+  schedule:
+    - cron: "47 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/update_catalog.mjs"
+      - ".github/workflows/sync-profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: 检出主页仓库
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: 扫描仓库与 Star 并更新分类
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update_catalog.mjs
+
+      - name: 提交有变化的内容
+        run: |
+          if git diff --quiet; then
+            echo "没有发现变化"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md STAR-CATALOG.md
+          git commit -m "自动更新仓库与 Star 分类"
+          git push
