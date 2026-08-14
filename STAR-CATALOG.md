@@ -2,7 +2,7 @@
 
 这是对 [HappyStupidChild 的全部 Star](https://github.com/HappyStupidChild?tab=stars) 所做的自动分类目录。
 
-- Star 总数：162
+- Star 总数：163
 - 分类数量：10
 - 分类原则：按项目的主要用途归档；具有交叉属性的项目只放入一个主分类
 - 维护方式：GitHub Actions 每日自动检查并更新
@@ -60,8 +60,9 @@
 </details>
 
 <details>
-<summary><strong>大模型、RAG 与生成式 AI</strong> · 16 个</summary>
+<summary><strong>大模型、RAG 与生成式 AI</strong> · 17 个</summary>
 
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
