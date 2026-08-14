@@ -13,51 +13,71 @@ const categories = [
   {
     name: "AI 智能体与开发工具",
     icon: "🤖",
+    id: "ai-agents",
+    description: "智能体框架、AI 编程助手、技能系统与多智能体协作工具，适合搭建自动执行任务的 AI 工作流。",
     examples: "LangChain、OpenCode、OpenClaw、Agent Skills",
   },
   {
     name: "大模型、RAG 与生成式 AI",
     icon: "🧠",
+    id: "llm-rag",
+    description: "大语言模型、知识库检索、提示词工程、对话前端与生成式应用，适合研究模型能力和落地方案。",
     examples: "DeepSeek、RAG-Anything、Open WebUI",
   },
   {
     name: "计算机视觉与模型部署",
     icon: "👁️",
+    id: "computer-vision",
+    description: "目标检测、图像分割、OCR、模型压缩和端侧部署，覆盖从训练实验到实际应用的完整链路。",
     examples: "YOLO、PaddleDetection、MNN、LiteRT",
   },
   {
     name: "数据集、论文与科研资料",
     icon: "📚",
+    id: "research-data",
+    description: "公开数据集、论文代码、实验项目与调优手册，适合科研复现、课程学习和模型评估。",
     examples: "数据集、科研代码、论文与调优手册",
   },
   {
     name: "Android 与移动生态",
     icon: "📱",
+    id: "android-mobile",
+    description: "Android 系统增强、ADB、设备控制、调试工具和移动端客户端，面向移动设备的开发与深度使用。",
     examples: "Shizuku、GKD、ADB、QtScrcpy",
   },
   {
     name: "网络代理、下载与自托管",
     icon: "🌐",
+    id: "network-selfhosted",
+    description: "代理客户端、下载管理、远程访问和自托管服务，适合构建稳定可控的个人网络工具箱。",
     examples: "Clash、v2ray、aria2、自托管服务",
   },
   {
     name: "Windows、系统与运维脚本",
     icon: "🖥️",
+    id: "windows-ops",
+    description: "Windows 系统维护、安装重装、功能管理和运维脚本，适合日常管理与故障处理。",
     examples: "Windows 脚本、ViVe、重装与运维工具",
   },
   {
     name: "自动化、爬虫与效率工具",
     icon: "⚙️",
+    id: "automation-productivity",
+    description: "网页采集、RPA、命令行脚本和批处理工作流，用于减少重复操作并提升信息处理效率。",
     examples: "EasySpider、CLI、下载与归档自动化",
   },
   {
     name: "编程学习、设计与资源导航",
     icon: "🧩",
+    id: "learning-resources",
+    description: "编程教程、学习路线、设计资料与精选资源列表，适合系统学习和快速查找参考材料。",
     examples: "Build Your Own X、设计与学习资源",
   },
   {
     name: "其他工具与兴趣项目",
     icon: "🎲",
+    id: "other-interests",
+    description: "暂不适合归入上述主题的数据工具、内容项目与实验性作品，保留独立入口以便持续整理。",
     examples: "数据分析与实验性项目",
   },
 ];
@@ -220,16 +240,53 @@ ${distribution}
 }
 
 function renderCatalog(stars, groupedStars) {
+  const formatStars = (count) => count >= 1000
+    ? `${(count / 1000).toFixed(count >= 10000 ? 0 : 1).replace(".0", "")}k`
+    : String(count);
+
+  const cleanDescription = (description) => {
+    if (!description) return "暂无项目简介";
+    return description
+      .replace(/[\r\n]+/g, " ")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replace(/([\\`*_\[\]])/g, "\\$1")
+      .replace(/\s+/g, " ")
+      .trim()
+      .slice(0, 180);
+  };
+
+  const directory = categories.map((category) => {
+    const count = groupedStars.get(category.name).length;
+    return `| [${category.icon} ${category.name}](#${category.id}) | ${count} | ${category.description} |`;
+  }).join("\n");
+
   const details = categories.map((category) => {
-    const items = groupedStars.get(category.name)
-      .map((repo) => `- [${repo.full_name}](${repo.html_url})`)
+    const repos = [...groupedStars.get(category.name)]
+      .sort((a, b) => b.stargazers_count - a.stargazers_count);
+    const items = repos
+      .map((repo) => {
+        const language = repo.language ? `\`${repo.language}\`` : "未标注语言";
+        const archived = repo.archived ? " · 🗄️ 已归档" : "";
+        return `- [**${repo.full_name}**](${repo.html_url}) — ${cleanDescription(repo.description)} · ${language} · ⭐ ${formatStars(repo.stargazers_count)}${archived}`;
+      })
       .join("\n");
-    return `<details>
-<summary><strong>${category.name}</strong> · ${groupedStars.get(category.name).length} 个</summary>
+
+    return `<a id="${category.id}"></a>
+## ${category.icon} ${category.name}
+
+> ${category.description}
+
+**本组共 ${repos.length} 个项目**，按 GitHub Star 数从高到低排列。
+
+<details>
+<summary><strong>展开项目清单</strong></summary>
 
 ${items}
 
-</details>`;
+</details>
+
+[↑ 返回分类目录](#分类目录)`;
   }).join("\n\n");
 
   return `# ⭐ Star 收藏分类目录
@@ -242,6 +299,14 @@ ${items}
 - 维护方式：GitHub Actions 每日自动检查并更新
 
 [← 返回个人主页](./README.md)
+
+## 分类目录
+
+| 分组 | 数量 | 分组说明 |
+| --- | ---: | --- |
+${directory}
+
+> 项目归类依据仓库名称、简介、主要语言与 Topics 自动判断；项目简介来自对应 GitHub 仓库。交叉属性项目只进入一个主分组。
 
 ${details}
 
