@@ -195,10 +195,10 @@ ${renderRepoCell(tableRows[1][1], repoGroups.get(groupNames[3]))}
 
   return `<div align="center">
 
-![公开仓库](https://img.shields.io/badge/公开仓库-${repos.length}-181717?style=flat-square&logo=github)
-![Fork](https://img.shields.io/badge/Fork-${forkCount}-2563EB?style=flat-square&logo=git)
-![Star 收藏](https://img.shields.io/badge/Star_收藏-${stars.length}-FFB000?style=flat-square&logo=githubsponsors)
-![兴趣分类](https://img.shields.io/badge/兴趣分类-${categories.length}-7C3AED?style=flat-square&logo=radar)
+[![公开仓库](https://img.shields.io/badge/公开仓库-${repos.length}-181717?style=flat-square&logo=github)](https://github.com/${owner}?tab=repositories)
+[![Fork](https://img.shields.io/badge/Fork-${forkCount}-2563EB?style=flat-square&logo=git)](https://github.com/${owner}?tab=repositories&type=fork)
+[![Star 收藏](https://img.shields.io/badge/Star_收藏-${stars.length}-FFB000?style=flat-square&logo=githubsponsors)](https://github.com/${owner}?tab=stars)
+[![兴趣分类](https://img.shields.io/badge/兴趣分类-${categories.length}-7C3AED?style=flat-square&logo=radar)](./STAR-CATALOG.md)
 
 </div>
 
