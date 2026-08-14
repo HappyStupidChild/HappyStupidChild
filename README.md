@@ -39,11 +39,11 @@
 ## 🛰️ 探索坐标
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_智能体-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI 智能体" />
-  <img src="https://img.shields.io/badge/Android_生态-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 生态" />
-  <img src="https://img.shields.io/badge/自动化-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="自动化" />
-  <img src="https://img.shields.io/badge/命令行-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="命令行" />
-  <img src="https://img.shields.io/badge/网络工具-0891B2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="网络工具" />
+  <a href="https://github.com/HappyStupidChild?tab=stars&q=AI"><img src="https://img.shields.io/badge/AI_智能体-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI 智能体" /></a>
+  <a href="https://github.com/HappyStupidChild?tab=stars&q=Android"><img src="https://img.shields.io/badge/Android_生态-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 生态" /></a>
+  <a href="https://github.com/HappyStupidChild?tab=stars&q=automation"><img src="https://img.shields.io/badge/自动化-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="自动化" /></a>
+  <a href="https://github.com/HappyStupidChild?tab=stars&q=CLI"><img src="https://img.shields.io/badge/命令行-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="命令行" /></a>
+  <a href="https://github.com/HappyStupidChild?tab=stars&q=network"><img src="https://img.shields.io/badge/网络工具-0891B2?style=for-the-badge&logo=cloudflare&logoColor=white" alt="网络工具" /></a>
 </p>
 
 ## 🔭 我的开源雷达
@@ -51,10 +51,10 @@
 <!-- AUTO:RADAR:START -->
 <div align="center">
 
-![公开仓库](https://img.shields.io/badge/公开仓库-20-181717?style=flat-square&logo=github)
-![Fork](https://img.shields.io/badge/Fork-19-2563EB?style=flat-square&logo=git)
-![Star 收藏](https://img.shields.io/badge/Star_收藏-163-FFB000?style=flat-square&logo=githubsponsors)
-![兴趣分类](https://img.shields.io/badge/兴趣分类-10-7C3AED?style=flat-square&logo=radar)
+[![公开仓库](https://img.shields.io/badge/公开仓库-20-181717?style=flat-square&logo=github)](https://github.com/HappyStupidChild?tab=repositories)
+[![Fork](https://img.shields.io/badge/Fork-19-2563EB?style=flat-square&logo=git)](https://github.com/HappyStupidChild?tab=repositories&type=fork)
+[![Star 收藏](https://img.shields.io/badge/Star_收藏-162-FFB000?style=flat-square&logo=githubsponsors)](https://github.com/HappyStupidChild?tab=stars)
+[![兴趣分类](https://img.shields.io/badge/兴趣分类-10-7C3AED?style=flat-square&logo=radar)](./STAR-CATALOG.md)
 
 </div>
 
@@ -118,7 +118,7 @@
 | 分类 | 数量 | 代表项目 |
 | --- | ---: | --- |
 | 🤖 AI 智能体与开发工具 | 44 | LangChain、OpenCode、OpenClaw、Agent Skills |
-| 🧠 大模型、RAG 与生成式 AI | 17 | DeepSeek、RAG-Anything、Open WebUI |
+| 🧠 大模型、RAG 与生成式 AI | 16 | DeepSeek、RAG-Anything、Open WebUI |
 | 👁️ 计算机视觉与模型部署 | 36 | YOLO、PaddleDetection、MNN、LiteRT |
 | 📚 数据集、论文与科研资料 | 25 | 数据集、科研代码、论文与调优手册 |
 | 📱 Android 与移动生态 | 9 | Shizuku、GKD、ADB、QtScrcpy |
@@ -129,7 +129,7 @@
 | 🎲 其他工具与兴趣项目 | 4 | 数据分析与实验性项目 |
 
 <div align="center">
-  <a href="./STAR-CATALOG.md"><strong>查看 163 个 Star 的完整分类目录 →</strong></a>
+  <a href="./STAR-CATALOG.md"><strong>查看 162 个 Star 的完整分类目录 →</strong></a>
 </div>
 
 > 本区域由 GitHub Actions 自动维护。分类按项目的主要用途归档，具有交叉属性的项目只放入一个主分类。我的 19 个功能仓库均为 Fork，版权与成果属于原作者和贡献者。
