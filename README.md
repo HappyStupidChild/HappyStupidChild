@@ -48,6 +48,7 @@
 
 ## 🔭 我的开源雷达
 
+<!-- AUTO:RADAR:START -->
 <div align="center">
 
 ![公开仓库](https://img.shields.io/badge/公开仓库-20-181717?style=flat-square&logo=github)
@@ -63,59 +64,51 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI、智能体与研究</h3>
-      <p>
-        <a href="https://github.com/HappyStupidChild/skillhub"><code>skillhub</code></a>
+      <p><a href="https://github.com/HappyStupidChild/skillhub"><code>skillhub</code></a>
         &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/claw-code"><code>claw-code</code></a>
+        <a href="https://github.com/HappyStupidChild/claw-code"><code>claw code</code></a>
         &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/claw-code-parity"><code>claw-code-parity</code></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/iflow-cli"><code>iflow-cli</code></a>
+        <a href="https://github.com/HappyStupidChild/claw-code-parity"><code>claw code parity</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/Deep_Learning-Notebook"><code>Deep Learning Notebook</code></a>
-      </p>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/iflow-cli"><code>iflow cli</code></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Android 与移动生态</h3>
-      <p>
-        <a href="https://github.com/HappyStupidChild/Shizuku"><code>Shizuku</code></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/gkd"><code>GKD</code></a>
+      <p><a href="https://github.com/HappyStupidChild/gkd"><code>gkd</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/Nrfr"><code>Nrfr</code></a>
         &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/v2rayNG"><code>v2rayNG</code></a>
-      </p>
+        <a href="https://github.com/HappyStupidChild/Shizuku"><code>Shizuku</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/v2rayNG"><code>v2rayNG</code></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 网络、代理与下载</h3>
-      <p>
-        <a href="https://github.com/HappyStupidChild/FlClash"><code>FlClash</code></a>
+      <p><a href="https://github.com/HappyStupidChild/FlClash"><code>FlClash</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/v2rayN"><code>v2rayN</code></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/clash-verge-rev"><code>Clash Verge Rev</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/aria2.sh"><code>aria2.sh</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/Aria2-Explorer"><code>Aria2 Explorer</code></a>
-      </p>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/clash-verge-rev"><code>clash verge rev</code></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ Windows、运维与自动化</h3>
-      <p>
+      <p><a href="https://github.com/HappyStupidChild/patch-edge-copilot"><code>patch edge copilot</code></a>
+        &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/Windows-Scripts"><code>Windows Scripts</code></a>
         &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/patch-edge-copilot"><code>Edge Copilot Patch</code></a>
+        <a href="https://github.com/HappyStupidChild/tiktokmodcloud"><code>tiktokmodcloud</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/reinstall"><code>reinstall</code></a>
         &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/HEU_KMS_Activator"><code>HEU KMS</code></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/tiktokmodcloud"><code>tiktokmodcloud</code></a>
-      </p>
+        <a href="https://github.com/HappyStupidChild/HEU_KMS_Activator"><code>HEU KMS Activator</code></a></p>
     </td>
   </tr>
 </table>
@@ -127,7 +120,7 @@
 | 🤖 AI 智能体与开发工具 | 44 | LangChain、OpenCode、OpenClaw、Agent Skills |
 | 🧠 大模型、RAG 与生成式 AI | 16 | DeepSeek、RAG-Anything、Open WebUI |
 | 👁️ 计算机视觉与模型部署 | 36 | YOLO、PaddleDetection、MNN、LiteRT |
-| 📚 数据集、论文与科研资料 | 25 | OHR-Bench、GPR、医疗 NLP、调优手册 |
+| 📚 数据集、论文与科研资料 | 25 | 数据集、科研代码、论文与调优手册 |
 | 📱 Android 与移动生态 | 9 | Shizuku、GKD、ADB、QtScrcpy |
 | 🌐 网络代理、下载与自托管 | 7 | Clash、v2ray、aria2、自托管服务 |
 | 🖥️ Windows、系统与运维脚本 | 10 | Windows 脚本、ViVe、重装与运维工具 |
@@ -139,7 +132,8 @@
   <a href="./STAR-CATALOG.md"><strong>查看 162 个 Star 的完整分类目录 →</strong></a>
 </div>
 
-> 数据快照：2026-08-14。分类按项目的主要用途归档，具有交叉属性的项目只放入一个主分类。我的 19 个功能仓库均为 Fork，版权与成果属于原作者和贡献者。
+> 本区域由 GitHub Actions 自动维护。分类按项目的主要用途归档，具有交叉属性的项目只放入一个主分类。我的 19 个功能仓库均为 Fork，版权与成果属于原作者和贡献者。
+<!-- AUTO:RADAR:END -->
 
 ## 🐍 贡献轨迹
 
