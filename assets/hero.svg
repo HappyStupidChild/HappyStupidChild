@@ -1,63 +1,106 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">HappyStupidChild — Dream, Explore, Build</title>
-  <desc id="desc">A dark gradient GitHub profile banner with stars and orbit lines.</desc>
+  <desc id="desc">Animated cyber-space GitHub profile banner.</desc>
   <defs>
-    <linearGradient id="bg" x1="74" y1="20" x2="1130" y2="346" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07111F"/>
-      <stop offset="0.54" stop-color="#111B38"/>
-      <stop offset="1" stop-color="#21103A"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816">
+        <animate attributeName="stop-color" values="#050816;#071A2B;#050816" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#0C1633">
+        <animate attributeName="stop-color" values="#0C1633;#15103A;#0C1633" dur="11s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#240B36">
+        <animate attributeName="stop-color" values="#240B36;#071C34;#240B36" dur="10s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
-    <linearGradient id="accent" x1="355" y1="110" x2="845" y2="270" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#67E8D1"/>
-      <stop offset="0.5" stop-color="#60A5FA"/>
-      <stop offset="1" stop-color="#D08AFF"/>
+    <linearGradient id="neon" x1="340" y1="105" x2="875" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EFCE8">
+        <animate attributeName="stop-color" values="#5EFCE8;#60A5FA;#5EFCE8" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#60A5FA">
+        <animate attributeName="stop-color" values="#60A5FA;#C084FC;#60A5FA" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#E879F9">
+        <animate attributeName="stop-color" values="#E879F9;#5EFCE8;#E879F9" dur="4s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(180 42) rotate(31) scale(420 240)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#16C9AC" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#16C9AC" stop-opacity="0"/>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(160 62) rotate(28) scale(440 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(1040 320) rotate(-150) scale(460 260)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A855F7" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientTransform="translate(1040 326) rotate(-148) scale(470 270)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C026D3" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#C026D3" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#C5D1E8" stroke-opacity="0.07"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#B9CCF2" stroke-opacity="0.085"/>
     </pattern>
-    <filter id="blur" x="-100" y="-100" width="1400" height="560" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="46"/>
+    <filter id="blur" x="-120" y="-120" width="1440" height="620" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="50"/>
     </filter>
+    <filter id="softGlow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="orbitLeft" d="M72 258C204 68 388 50 520 134"/>
+    <path id="orbitRight" d="M680 235C830 330 1012 292 1134 93"/>
   </defs>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="28" fill="url(#bg)"/>
   <g filter="url(#blur)">
-    <ellipse cx="180" cy="42" rx="330" ry="175" fill="url(#glowA)"/>
-    <ellipse cx="1040" cy="320" rx="370" ry="190" fill="url(#glowB)"/>
-  </g>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-
-  <g opacity="0.72" stroke-linecap="round">
-    <path d="M91 237C248 61 393 48 526 126" stroke="#67E8D1" stroke-opacity="0.28"/>
-    <path d="M674 226C820 312 978 291 1118 105" stroke="#C084FC" stroke-opacity="0.28"/>
-    <circle cx="91" cy="237" r="5" fill="#67E8D1" stroke="none"/>
-    <circle cx="1118" cy="105" r="5" fill="#C084FC" stroke="none"/>
+    <ellipse cx="160" cy="62" rx="350" ry="190" fill="url(#glowCyan)">
+      <animate attributeName="cx" values="130;245;130" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1040" cy="326" rx="380" ry="200" fill="url(#glowPurple)">
+      <animate attributeName="cx" values="1070;950;1070" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
   </g>
 
-  <g fill="#E7EEFF">
-    <circle cx="95" cy="82" r="2" opacity="0.75"/>
-    <circle cx="172" cy="294" r="2.5" opacity="0.6"/>
-    <circle cx="1053" cy="274" r="2" opacity="0.65"/>
-    <circle cx="1100" cy="67" r="2.5" opacity="0.7"/>
+  <g opacity="0.78">
+    <rect x="-36" y="-36" width="1272" height="452" fill="url(#grid)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;36 36" dur="5s" repeatCount="indefinite"/>
+    </rect>
   </g>
-  <path d="M104 110h30M119 95v30M1058 234h34M1075 217v34" stroke="#75B8FF" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
 
-  <rect x="445" y="73" width="310" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.075" stroke="#FFFFFF" stroke-opacity="0.14"/>
-  <circle cx="466" cy="89" r="5" fill="#67E8D1"/>
-  <text x="483" y="95" fill="#CCD7EC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="1.7">HELLO, I'M HAPPYSTUPIDCHILD</text>
+  <g fill="none" stroke-linecap="round">
+    <use href="#orbitLeft" stroke="#5EFCE8" stroke-opacity="0.28"/>
+    <use href="#orbitRight" stroke="#D778FF" stroke-opacity="0.28"/>
+    <ellipse cx="600" cy="190" rx="505" ry="137" stroke="#7DD3FC" stroke-opacity="0.1" stroke-dasharray="6 16">
+      <animateTransform attributeName="transform" type="rotate" from="0 600 190" to="360 600 190" dur="28s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
 
-  <text x="600" y="181" text-anchor="middle" fill="#F8FAFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="56" font-weight="750" letter-spacing="-1.4">DREAM. EXPLORE.</text>
-  <text x="600" y="246" text-anchor="middle" fill="url(#accent)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="56" font-weight="750" letter-spacing="-1.4">BUILD.</text>
+  <circle r="6" fill="#5EFCE8" filter="url(#softGlow)">
+    <animateMotion dur="5.4s" repeatCount="indefinite"><mpath href="#orbitLeft"/></animateMotion>
+  </circle>
+  <circle r="5" fill="#D778FF" filter="url(#softGlow)">
+    <animateMotion dur="6.2s" repeatCount="indefinite"><mpath href="#orbitRight"/></animateMotion>
+  </circle>
 
-  <path d="M477 284H723" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
-  <circle cx="477" cy="284" r="4" fill="#67E8D1"/>
-  <circle cx="723" cy="284" r="4" fill="#D08AFF"/>
+  <g fill="#EAF2FF">
+    <circle cx="88" cy="85" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="178" cy="312" r="2"><animate attributeName="opacity" values="1;.15;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="276" cy="82" r="1.8"><animate attributeName="opacity" values=".15;.9;.15" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="956" cy="67" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1068" cy="287" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1121" cy="137" r="1.8"><animate attributeName="opacity" values="1;.15;1" dur="2.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g stroke="#75B8FF" stroke-width="2" stroke-linecap="round" opacity="0.85">
+    <path d="M106 122h34M123 105v34"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></path>
+    <path d="M1054 238h38M1073 219v38"><animate attributeName="opacity" values="1;.25;1" dur="2.5s" repeatCount="indefinite"/></path>
+  </g>
+
+  <rect x="424" y="65" width="352" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+  <circle cx="447" cy="82" r="5" fill="#5EFCE8"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <text x="464" y="88" fill="#CCD9F2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="1.6">SYSTEM.ONLINE // STATUS: CURIOUS</text>
+
+  <text x="600" y="178" text-anchor="middle" fill="#F8FAFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="57" font-weight="780" letter-spacing="-1.6">DREAM. EXPLORE.</text>
+  <text x="600" y="246" text-anchor="middle" fill="url(#neon)" filter="url(#softGlow)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="59" font-weight="800" letter-spacing="1">BUILD.</text>
+
+  <path d="M450 286H750" stroke="url(#neon)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="300" filter="url(#softGlow)">
+    <animate attributeName="stroke-dashoffset" values="300;0;-300" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="322" text-anchor="middle" fill="#9FB1D2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="3">HAPPYSTUPIDCHILD.EXE</text>
+  <rect x="709" y="310" width="8" height="14" rx="1" fill="#5EFCE8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
