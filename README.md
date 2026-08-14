@@ -8,7 +8,7 @@
 
 # Hi, I'm HappyStupidChild 👻
 
-### Open-source explorer · Curious tinkerer · Lifelong learner
+### `Open-source explorer` · `Curious tinkerer` · `Lifelong learner`
 
 我喜欢发现、研究和整理有意思的开源工具。  
 Exploring practical software across **AI agents, automation, Android, and networking**.
@@ -73,6 +73,18 @@ currently: "Learning by reading, testing, and following great open source"
 > The repositories above are projects I follow or have forked for learning and reference.  
 > 上述仓库主要是我关注或为学习、参考而 Fork 的优秀开源项目。
 
+## Contribution stream
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HappyStupidChild/HappyStupidChild/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HappyStupidChild/HappyStupidChild/output/github-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/HappyStupidChild/HappyStupidChild/output/github-snake.svg" width="100%" />
+</picture>
+
+<div align="center">
+  <sub>Auto-generated every day from my GitHub contribution graph.</sub>
+</div>
+
 ## Interests
 
 <p>
@@ -94,6 +106,5 @@ currently: "Learning by reading, testing, and following great open source"
 ---
 
 <div align="center">
-  <sub>Dream a little. Explore a lot. Build something useful.</sub>
+  <sub>⚡ Dream a little. Explore a lot. Build something useful. ⚡</sub>
 </div>
-
