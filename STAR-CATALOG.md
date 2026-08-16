@@ -37,19 +37,19 @@
 <summary><strong>展开项目清单</strong></summary>
 
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · `TypeScript` · ⭐ 386k
-- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · `Shell` · ⭐ 272k
+- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · `Shell` · ⭐ 273k
 - [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you · `Python` · ⭐ 231k
 - [**multica-ai/andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · 未标注语言 · ⭐ 203k
 - [**anomalyco/opencode**](https://github.com/anomalyco/opencode) — The open source coding agent. · `TypeScript` · ⭐ 198k
 - [**ultraworkers/claw-code**](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. · `Rust` · ⭐ 195k
 - [**Significant-Gravitas/AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. · `Python` · ⭐ 187k
-- [**anthropics/skills**](https://github.com/anthropics/skills) — Public repository for Agent Skills · `Python` · ⭐ 169k
+- [**anthropics/skills**](https://github.com/anthropics/skills) — Public repository for Agent Skills · `Python` · ⭐ 170k
 - [**langflow-ai/langflow**](https://github.com/langflow-ai/langflow) — Langflow is a powerful tool for building and deploying AI-powered agents and workflows. · `Python` · ⭐ 153k
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 144k
 - [**github/spec-kit**](https://github.com/github/spec-kit) — 💫 Toolkit to help you get started with Spec-Driven Development · `Python` · ⭐ 129k
+- [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · `TypeScript` · ⭐ 116k
 - [**browser-use/browser-use**](https://github.com/browser-use/browser-use) — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. · `Python` · ⭐ 109k
-- [**VoltAgent/awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. · 未标注语言 · ⭐ 108k
-- [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · `TypeScript` · ⭐ 97k
+- [**VoltAgent/awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. · 未标注语言 · ⭐ 109k
 - [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) — AI agents running research on single-GPU nanochat training automatically · `Python` · ⭐ 94k
 - [**lobehub/lobehub**](https://github.com/lobehub/lobehub) — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. · `TypeScript` · ⭐ 82k
 - [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) — The open-source app everyone uses to manage agents at work · `TypeScript` · ⭐ 78k
@@ -135,7 +135,7 @@
 - [**hukaixuan19970627/yolov5_obb**](https://github.com/hukaixuan19970627/yolov5_obb) — yolov5 + csl\_label.(Oriented Object Detection)（Rotation Detection）（Rotated BBox）基于yolov5的旋转目标检测 · `Python` · ⭐ 1.9k
 - [**gengyanlei/fire-smoke-detect-yolov4**](https://github.com/gengyanlei/fire-smoke-detect-yolov4) — fire-smoke-detect-yolov4-yolov5 and fire-smoke-detection-dataset 火灾检测，烟雾检测 · `Jupyter Notebook` · ⭐ 1.5k
 - [**google-ai-edge/litert-torch**](https://github.com/google-ai-edge/litert-torch) — Support PyTorch model conversion with LiteRT. · `Jupyter Notebook` · ⭐ 1.1k
-- [**Syencil/mobile-yolov5-pruning-distillation**](https://github.com/Syencil/mobile-yolov5-pruning-distillation) — mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！ · `Jupyter Notebook` · ⭐ 853
+- [**Syencil/mobile-yolov5-pruning-distillation**](https://github.com/Syencil/mobile-yolov5-pruning-distillation) — mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！ · `Jupyter Notebook` · ⭐ 854
 - [**OptimalScale/DetGPT**](https://github.com/OptimalScale/DetGPT) — 暂无项目简介 · `Jupyter Notebook` · ⭐ 785
 - [**xahidbuffon/Awesome_Underwater_Datasets**](https://github.com/xahidbuffon/Awesome_Underwater_Datasets) — Pointers to large-scale underwater datasets and relevant resources. · 未标注语言 · ⭐ 706
 - [**ucas-vg/PointTinyBenchmark**](https://github.com/ucas-vg/PointTinyBenchmark) — Point based and tiny object detection and localization code set of UCAS-VG · `Python` · ⭐ 693
@@ -144,14 +144,14 @@
 - [**xinzhichao/Underwater_Datasets**](https://github.com/xinzhichao/Underwater_Datasets) — This repository is used to collect underwater scene datasets and is always updated · 未标注语言 · ⭐ 429
 - [**XinzeLee/PolygonObjectDetection**](https://github.com/XinzeLee/PolygonObjectDetection) — This repository is based on Ultralytics/yolov5, with adjustments to enable polygon prediction boxes. · `Python` · ⭐ 384
 - [**MoonBlvd/tad-IROS2019**](https://github.com/MoonBlvd/tad-IROS2019) — Code of the Unsupervised Traffic Accident Detection paper in Pytorch. · `Python` · ⭐ 192
-- [**datar5/yolov8-flask-vue-deploy**](https://github.com/datar5/yolov8-flask-vue-deploy) — 本科个人目标检测毕设 · `Vue` · ⭐ 178
+- [**datar5/yolov8-flask-vue-deploy**](https://github.com/datar5/yolov8-flask-vue-deploy) — 本科个人目标检测毕设 · `Vue` · ⭐ 177
 - [**DataXujing/ncnn_android_yolov8**](https://github.com/DataXujing/ncnn_android_yolov8) — QT+NCNN 小米手机运行YOLOv8s · `Python` · ⭐ 159
 - [**vlomonaco/core50**](https://github.com/vlomonaco/core50) — CORe50: a new Dataset and Benchmark for Continual Learning · `Python` · ⭐ 123
 - [**YaoaoY/yolov8_GUI**](https://github.com/YaoaoY/yolov8_GUI) — 基于YOLOv8的多端车流检测系统（用于毕设+开源） · `Python` · ⭐ 110
 - [**acai66/yolov5_rotation**](https://github.com/acai66/yolov5_rotation) — rotated bbox detection. inspired by https://github.com/hukaixuan19970627/YOLOv5\_DOTA\_OBB, thanks hukaixuan19970627. · `HTML` · ⭐ 89
 - [**PeiqinZhuang/WildFish**](https://github.com/PeiqinZhuang/WildFish) — WildFish: A Large Benchmark for Fish Recognition in the Wild · 未标注语言 · ⭐ 81
 - [**jianzhang96/MSD**](https://github.com/jianzhang96/MSD) — mobile phone screen surface defect segmentation (detection) dataset. · 未标注语言 · ⭐ 75
-- [**garlic-byte/yolov8_distillation**](https://github.com/garlic-byte/yolov8_distillation) — 轻量化剪枝+蒸馏 · `Python` · ⭐ 71
+- [**garlic-byte/yolov8_distillation**](https://github.com/garlic-byte/yolov8_distillation) — 轻量化剪枝+蒸馏 · `Python` · ⭐ 72
 - [**YINYIPENG-EN/Pruning_for_YOLOX**](https://github.com/YINYIPENG-EN/Pruning_for_YOLOX) — 实现对YOLOX的剪枝操作，添加了卷积层和BN层融合推理，添加中间层可视化功能，可实现预测和训练日志保存 · `Python` · ⭐ 47
 - [**WangRongsheng/PaddleOCR-Flask-deploy**](https://github.com/WangRongsheng/PaddleOCR-Flask-deploy) — ✅Deploy PaddleOCR with flask | 利用Flask对PaddleOCR进行部署，方便调用 · `HTML` · ⭐ 44
 - [**Mr-TalhaIlyas/CWD30**](https://github.com/Mr-TalhaIlyas/CWD30) — Official Repository for CWD30 Dataset · `Python` · ⭐ 43
@@ -292,7 +292,7 @@
 - [**NaiboWang/EasySpider**](https://github.com/NaiboWang/EasySpider) — A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 · `JavaScript` · ⭐ 44k
 - [**iflow-ai/iflow-cli**](https://github.com/iflow-ai/iflow-cli) — iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boost · `Shell` · ⭐ 5.1k
 - [**bigintpro/csdn_downloader**](https://github.com/bigintpro/csdn_downloader) — csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://toolman.ddnsfree.com:9192/#/login?c=12 · `Java` · ⭐ 2.2k
-- [**namecallfilter/tiktokmodcloud**](https://github.com/namecallfilter/tiktokmodcloud) — Automated archive of TikTok Mod and Plugin APK files from TikTokModCloud. This repository includes a CLI tool for downloading the latest versions and automated workflows to maintai · `TypeScript` · ⭐ 353
+- [**namecallfilter/tiktokmodcloud**](https://github.com/namecallfilter/tiktokmodcloud) — Automated archive of TikTok Mod and Plugin APK files from TikTokModCloud. This repository includes a CLI tool for downloading the latest versions and automated workflows to maintai · `TypeScript` · ⭐ 357
 - [**LewisGu/CSDNDownloader**](https://github.com/LewisGu/CSDNDownloader) — CSDN博客下载助手 · `Python` · ⭐ 30
 - [**ssm0801/ScriptAllTheThings**](https://github.com/ssm0801/ScriptAllTheThings) — A amazing collection of Python Scripts. Make your life easier with scripts. · `Python` · ⭐ 15
 
