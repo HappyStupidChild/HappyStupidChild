@@ -119,8 +119,8 @@
 
 | 分类 | 数量 | 代表项目 |
 | --- | ---: | --- |
-| 🤖 AI 智能体与开发工具 | 45 | LangChain、OpenCode、OpenClaw、Agent Skills |
-| 🧠 大模型、RAG 与生成式 AI | 16 | DeepSeek、RAG-Anything、Open WebUI |
+| 🤖 AI 智能体与开发工具 | 46 | LangChain、OpenCode、OpenClaw、Agent Skills |
+| 🧠 大模型、RAG 与生成式 AI | 15 | DeepSeek、RAG-Anything、Open WebUI |
 | 👁️ 计算机视觉与模型部署 | 36 | YOLO、PaddleDetection、MNN、LiteRT |
 | 📚 数据集、论文与科研资料 | 25 | 数据集、科研代码、论文与调优手册 |
 | 📱 Android 与移动生态 | 9 | Shizuku、GKD、ADB、QtScrcpy |
