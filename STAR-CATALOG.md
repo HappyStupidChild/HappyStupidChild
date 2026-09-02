@@ -2,7 +2,7 @@
 
 这是对 [HappyStupidChild 的全部 Star](https://github.com/HappyStupidChild?tab=stars) 所做的自动分类目录。
 
-- Star 总数：166
+- Star 总数：168
 - 分类数量：10
 - 分类原则：按项目的主要用途归档；具有交叉属性的项目只放入一个主分类
 - 维护方式：GitHub Actions 每日自动检查并更新
@@ -13,7 +13,7 @@
 
 | 分组 | 数量 | 分组说明 |
 | --- | ---: | --- |
-| [🤖 AI 智能体与开发工具](#ai-agents) | 48 | 智能体框架、AI 编程助手、技能系统与多智能体协作工具，适合搭建自动执行任务的 AI 工作流。 |
+| [🤖 AI 智能体与开发工具](#ai-agents) | 50 | 智能体框架、AI 编程助手、技能系统与多智能体协作工具，适合搭建自动执行任务的 AI 工作流。 |
 | [🧠 大模型、RAG 与生成式 AI](#llm-rag) | 16 | 大语言模型、知识库检索、提示词工程、对话前端与生成式应用，适合研究模型能力和落地方案。 |
 | [👁️ 计算机视觉与模型部署](#computer-vision) | 36 | 目标检测、图像分割、OCR、模型压缩和端侧部署，覆盖从训练实验到实际应用的完整链路。 |
 | [📚 数据集、论文与科研资料](#research-data) | 25 | 公开数据集、论文代码、实验项目与调优手册，适合科研复现、课程学习和模型评估。 |
@@ -31,16 +31,16 @@
 
 > 智能体框架、AI 编程助手、技能系统与多智能体协作工具，适合搭建自动执行任务的 AI 工作流。
 
-**本组共 48 个项目**，按 GitHub Star 数从高到低排列。
+**本组共 50 个项目**，按 GitHub Star 数从高到低排列。
 
 <details>
 <summary><strong>展开项目清单</strong></summary>
 
-- [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · `TypeScript` · ⭐ 388k
-- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · `Shell` · ⭐ 280k
-- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you · `Python` · ⭐ 239k
+- [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · `TypeScript` · ⭐ 389k
+- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · `Shell` · ⭐ 281k
+- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you · `Python` · ⭐ 240k
 - [**multica-ai/andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · 未标注语言 · ⭐ 209k
-- [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · `TypeScript` · ⭐ 207k
+- [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · `TypeScript` · ⭐ 208k
 - [**anomalyco/opencode**](https://github.com/anomalyco/opencode) — The open source coding agent. · `TypeScript` · ⭐ 203k
 - [**ultraworkers/claw-code**](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. · `Rust` · ⭐ 195k
 - [**Significant-Gravitas/AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. · `Python` · ⭐ 187k
@@ -49,7 +49,7 @@
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 145k
 - [**github/spec-kit**](https://github.com/github/spec-kit) — 💫 Toolkit to help you get started with Spec-Driven Development · `Python` · ⭐ 133k
 - [**openai/codex**](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · `Rust` · ⭐ 121k
-- [**VoltAgent/awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. · 未标注语言 · ⭐ 112k
+- [**VoltAgent/awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. · 未标注语言 · ⭐ 113k
 - [**browser-use/browser-use**](https://github.com/browser-use/browser-use) — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. · `Python` · ⭐ 112k
 - [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) — AI agents running research on single-GPU nanochat training automatically · `Python` · ⭐ 95k
 - [**lobehub/lobehub**](https://github.com/lobehub/lobehub) — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. · `TypeScript` · ⭐ 82k
@@ -59,7 +59,7 @@
 - [**warpdotdev/warp**](https://github.com/warpdotdev/warp) — Warp is an agentic development environment, born out of the terminal. · `Rust` · ⭐ 65k
 - [**HKUDS/CLI-Anything**](https://github.com/HKUDS/CLI-Anything) — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ · `Python` · ⭐ 49k
 - [**QuantumNous/new-api**](https://github.com/QuantumNous/new-api) — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centrali · `Go` · ⭐ 47k
-- [**Hmbown/CodeWhale**](https://github.com/Hmbown/CodeWhale) — Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. · `Rust` · ⭐ 41k
+- [**Hmbown/Codewhale**](https://github.com/Hmbown/Codewhale) — Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. · `Rust` · ⭐ 41k
 - [**langchain-ai/langgraph**](https://github.com/langchain-ai/langgraph) — Build resilient agents. · `Python` · ⭐ 41k
 - [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) — Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. · `Rust` · ⭐ 39k
 - [**agentscope-ai/QwenPaw**](https://github.com/agentscope-ai/QwenPaw) — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. · `Python` · ⭐ 35k
@@ -74,14 +74,16 @@
 - [**NoeFabris/opencode-antigravity-auth**](https://github.com/NoeFabris/opencode-antigravity-auth) — Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking · `TypeScript` · ⭐ 11k · 🗄️ 已归档
 - [**awesome-opencode/awesome-opencode**](https://github.com/awesome-opencode/awesome-opencode) — A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai · `JavaScript` · ⭐ 10k
 - [**crynta/terax-ai**](https://github.com/crynta/terax-ai) — Lightweight (7MB) Terminal-first AI-native dev workspace · `TypeScript` · ⭐ 9.1k
-- [**chuspeeism/dashi-ppt-skill**](https://github.com/chuspeeism/dashi-ppt-skill) — An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. · `JavaScript` · ⭐ 7.1k
+- [**chuspeeism/dashi-ppt-skill**](https://github.com/chuspeeism/dashi-ppt-skill) — An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. · `JavaScript` · ⭐ 7.2k
 - [**iflytek/skillhub**](https://github.com/iflytek/skillhub) — Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes. · `Java` · ⭐ 4.9k
 - [**DevAgentForge/Open-Claude-Cowork**](https://github.com/DevAgentForge/Open-Claude-Cowork) — OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe. · `TypeScript` · ⭐ 3.4k
 - [**numman-ali/opencode-openai-codex-auth**](https://github.com/numman-ali/opencode-openai-codex-auth) — OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method · `TypeScript` · ⭐ 2.2k
+- [**XiaoDuoYa/codex-with-chatgpt**](https://github.com/XiaoDuoYa/codex-with-chatgpt) — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. · `TypeScript` · ⭐ 2.2k
 - [**AI-Anywhere/AI-Anywhere**](https://github.com/AI-Anywhere/AI-Anywhere) — Your agents. Any browser. Anywhere · `TypeScript` · ⭐ 2.1k
 - [**openclaw/clawsweeper**](https://github.com/openclaw/clawsweeper) — ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week. · `TypeScript` · ⭐ 2k
-- [**griffinmartin/opencode-claude-auth**](https://github.com/griffinmartin/opencode-claude-auth) — OpenCode plugin that uses your existing Claude Code credentials — no separate login needed. · `TypeScript` · ⭐ 1.2k
-- [**wudy29/engineering-bridge**](https://github.com/wudy29/engineering-bridge) — 让 Chat 直接调度、监督本地 Codex / DSH：不再来回搬运提示词和结果，在对话中发起任务、审阅/修正补丁，确认 APPLY 后受控写入。 · `TypeScript` · ⭐ 94
+- [**griffinmartin/opencode-claude-auth**](https://github.com/griffinmartin/opencode-claude-auth) — OpenCode plugin that uses your existing Claude Code credentials — no separate login needed. · `TypeScript` · ⭐ 1.3k
+- [**runningZ1/union-search-skill**](https://github.com/runningZ1/union-search-skill) — 统一搜索工具集 - 跨平台内容搜索解决方案，支持 B 站/抖音/小红书/GitHub/Twitter 等 20+ 平台 · `Python` · ⭐ 653
+- [**wudy29/engineering-bridge**](https://github.com/wudy29/engineering-bridge) — 让 Chat 直接调度、监督本地 Codex / DSH：不再来回搬运提示词和结果，在对话中发起任务、审阅/修正补丁，确认 APPLY 后受控写入。 · `TypeScript` · ⭐ 99
 - [**xuanlinAI/overmind**](https://github.com/xuanlinAI/overmind) — 玄霖超脑 · 无量网络 v4 重构版— 66 模块6通道 AI 认知神经系统 · 装一次，你所有的 AI 工具从此共享一个永远不失忆的大脑。跨会话记忆 · 多 Agent 互通 · 自动代码审查 · 零配置 · `JavaScript` · ⭐ 85
 - [**vibe-plus/vibe-plus**](https://github.com/vibe-plus/vibe-plus) — A cross-platform desktop All-in-One assistant for Claude Code, Codex. · `Rust` · ⭐ 7
 
@@ -106,7 +108,7 @@
 - [**deepseek-ai/awesome-deepseek-integration**](https://github.com/deepseek-ai/awesome-deepseek-integration) — Integrate the DeepSeek API into popular software · 未标注语言 · ⭐ 39k
 - [**HKUDS/RAG-Anything**](https://github.com/HKUDS/RAG-Anything) — "RAG-Anything: All-in-One RAG Framework" · `Python` · ⭐ 23k
 - [**xx025/carrot**](https://github.com/xx025/carrot) — AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源 · 未标注语言 · ⭐ 17k
-- [**OpenMOSS/MOSS**](https://github.com/OpenMOSS/MOSS) — An open-source tool-augmented conversational language model from Fudan University · `Python` · ⭐ 12k
+- [**OpenMOSS/MOSS**](https://github.com/OpenMOSS/MOSS) — An open-source, tool-augmented conversational language model from Fudan University · `Python` · ⭐ 12k
 - [**adams549659584/go-proxy-bingai**](https://github.com/adams549659584/go-proxy-bingai) — 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 · `HTML` · ⭐ 8.5k
 - [**interstellard/chatgpt-advanced**](https://github.com/interstellard/chatgpt-advanced) — WebChatGPT: A browser extension that augments your ChatGPT prompts with web results. · `TypeScript` · ⭐ 6.4k
 - [**trigaten/Learn_Prompting**](https://github.com/trigaten/Learn_Prompting) — Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community · `MDX` · ⭐ 4.7k
@@ -114,7 +116,7 @@
 - [**camenduru/text-to-video-synthesis-colab**](https://github.com/camenduru/text-to-video-synthesis-colab) — Text To Video Synthesis Colab · `Jupyter Notebook` · ⭐ 1.5k
 - [**camenduru/text2video-zero-colab**](https://github.com/camenduru/text2video-zero-colab) — 暂无项目简介 · `Jupyter Notebook` · ⭐ 135
 - [**AILABAmiYA/Free-ChatGPT-Site-List**](https://github.com/AILABAmiYA/Free-ChatGPT-Site-List) — 众多免费好用的ChatGPT镜像站点，当前100+站点 · 未标注语言 · ⭐ 50
-- [**CCCCY-ci/ctxhop**](https://github.com/CCCCY-ci/ctxhop) — Continue the same AI coding session on another machine. No server, no account, your own storage. · `Go` · ⭐ 28
+- [**CCCCY-ci/ctxhop**](https://github.com/CCCCY-ci/ctxhop) — Continue the same AI coding session on another machine. No server, no account, your own storage. · `Go` · ⭐ 29
 
 </details>
 
@@ -245,8 +247,8 @@
 <details>
 <summary><strong>展开项目清单</strong></summary>
 
-- [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) — A list of Free Software network services and web applications which can be hosted on your own servers · 未标注语言 · ⭐ 316k
-- [**clash-verge-rev/clash-verge-rev**](https://github.com/clash-verge-rev/clash-verge-rev) — A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience · `TypeScript` · ⭐ 141k
+- [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) — A list of Free Software network services and web applications which can be hosted on your own servers · 未标注语言 · ⭐ 317k
+- [**clash-verge-rev/clash-verge-rev**](https://github.com/clash-verge-rev/clash-verge-rev) — A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience · `TypeScript` · ⭐ 142k
 - [**2dust/v2rayN**](https://github.com/2dust/v2rayN) — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others · `C#` · ⭐ 115k
 - [**chen08209/FlClash**](https://github.com/chen08209/FlClash) — A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. · `Dart` · ⭐ 51k
 - [**P3TERX/aria2.sh**](https://github.com/P3TERX/aria2.sh) — Aria2 一键安装管理脚本 增强版 · `Shell` · ⭐ 3k · 🗄️ 已归档
@@ -313,7 +315,7 @@
 <details>
 <summary><strong>展开项目清单</strong></summary>
 
-- [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) — Master programming by recreating your favorite technologies from scratch. · `Markdown` · ⭐ 544k
+- [**codecrafters-io/build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) — Master programming by recreating your favorite technologies from scratch. · `Markdown` · ⭐ 545k
 - [**coder2gwy/coder2gwy**](https://github.com/coder2gwy/coder2gwy) — 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 · 未标注语言 · ⭐ 28k
 - [**2025Emma/vibe-coding-cn**](https://github.com/2025Emma/vibe-coding-cn) — 暂无项目简介 · `Python` · ⭐ 23k
 - [**jbhuang0604/awesome-tips**](https://github.com/jbhuang0604/awesome-tips) — 暂无项目简介 · 未标注语言 · ⭐ 4.7k
