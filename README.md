@@ -51,9 +51,9 @@
 <!-- AUTO:RADAR:START -->
 <div align="center">
 
-[![公开仓库](https://img.shields.io/badge/公开仓库-30-181717?style=flat-square&logo=github)](https://github.com/HappyStupidChild?tab=repositories)
-[![Fork](https://img.shields.io/badge/Fork-29-2563EB?style=flat-square&logo=git)](https://github.com/HappyStupidChild?tab=repositories&type=fork)
-[![Star 收藏](https://img.shields.io/badge/Star_收藏-182-FFB000?style=flat-square&logo=githubsponsors)](https://github.com/HappyStupidChild?tab=stars)
+[![公开仓库](https://img.shields.io/badge/公开仓库-31-181717?style=flat-square&logo=github)](https://github.com/HappyStupidChild?tab=repositories)
+[![Fork](https://img.shields.io/badge/Fork-30-2563EB?style=flat-square&logo=git)](https://github.com/HappyStupidChild?tab=repositories&type=fork)
+[![Star 收藏](https://img.shields.io/badge/Star_收藏-183-FFB000?style=flat-square&logo=githubsponsors)](https://github.com/HappyStupidChild?tab=stars)
 [![兴趣分类](https://img.shields.io/badge/兴趣分类-10-7C3AED?style=flat-square&logo=radar)](./STAR-CATALOG.md)
 
 </div>
@@ -112,7 +112,9 @@
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ Windows、运维与自动化</h3>
-      <p><a href="https://github.com/HappyStupidChild/DeepInfer"><code>DeepInfer</code></a>
+      <p><a href="https://github.com/HappyStupidChild/dsh-purge"><code>dsh purge</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/DeepInfer"><code>DeepInfer</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/deepseek-recipe"><code>deepseek recipe</code></a>
         &nbsp;·&nbsp;
@@ -138,7 +140,7 @@
 | 分类 | 数量 | 代表项目 |
 | --- | ---: | --- |
 | 🤖 AI 智能体与开发工具 | 53 | LangChain、OpenCode、OpenClaw、Agent Skills |
-| 🧠 大模型、RAG 与生成式 AI | 18 | DeepSeek、RAG-Anything、Open WebUI |
+| 🧠 大模型、RAG 与生成式 AI | 19 | DeepSeek、RAG-Anything、Open WebUI |
 | 👁️ 计算机视觉与模型部署 | 37 | YOLO、PaddleDetection、MNN、LiteRT |
 | 📚 数据集、论文与科研资料 | 26 | 数据集、科研代码、论文与调优手册 |
 | 📱 Android 与移动生态 | 10 | Shizuku、GKD、ADB、QtScrcpy |
@@ -149,10 +151,10 @@
 | 🎲 其他工具与兴趣项目 | 8 | 数据分析与实验性项目 |
 
 <div align="center">
-  <a href="./STAR-CATALOG.md"><strong>查看 182 个 Star 的完整分类目录 →</strong></a>
+  <a href="./STAR-CATALOG.md"><strong>查看 183 个 Star 的完整分类目录 →</strong></a>
 </div>
 
-> 本区域由 GitHub Actions 自动维护。分类按项目的主要用途归档，具有交叉属性的项目只放入一个主分类。我的 29 个功能仓库均为 Fork，版权与成果属于原作者和贡献者。
+> 本区域由 GitHub Actions 自动维护。分类按项目的主要用途归档，具有交叉属性的项目只放入一个主分类。我的 30 个功能仓库均为 Fork，版权与成果属于原作者和贡献者。
 <!-- AUTO:RADAR:END -->
 
 ## 🐍 贡献轨迹
