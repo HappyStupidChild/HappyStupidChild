@@ -36,23 +36,23 @@
 <details>
 <summary><strong>展开项目清单</strong></summary>
 
-- [**morluto/rea**](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries. · `TypeScript` · ⭐ 413k
+- [**morluto/rea**](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries. · `TypeScript` · ⭐ 416k
 - [**openclaw/openclaw**](https://github.com/openclaw/openclaw) — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 · `TypeScript` · ⭐ 394k
 - [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works. · `Shell` · ⭐ 310k
-- [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · `TypeScript` · ⭐ 267k
+- [**deepseek-ai/deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin. · `TypeScript` · ⭐ 268k
 - [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you · `Python` · ⭐ 259k
-- [**multica-ai/andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · 未标注语言 · ⭐ 227k
-- [**anomalyco/opencode**](https://github.com/anomalyco/opencode) — The open source coding agent. · `TypeScript` · ⭐ 223k
+- [**multica-ai/andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · 未标注语言 · ⭐ 228k
+- [**anomalyco/opencode**](https://github.com/anomalyco/opencode) — The open source coding agent. · `TypeScript` · ⭐ 224k
 - [**ultraworkers/claw-code**](https://github.com/ultraworkers/claw-code) — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. · `Rust` · ⭐ 195k
 - [**Significant-Gravitas/AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. · `Python` · ⭐ 188k
-- [**anthropics/skills**](https://github.com/anthropics/skills) — Public repository for Agent Skills · `Python` · ⭐ 185k
+- [**anthropics/skills**](https://github.com/anthropics/skills) — Public repository for Agent Skills · `Python` · ⭐ 186k
 - [**langflow-ai/langflow**](https://github.com/langflow-ai/langflow) — Langflow is a powerful tool for building and deploying AI-powered agents and workflows. · `Python` · ⭐ 156k
 - [**langchain-ai/langchain**](https://github.com/langchain-ai/langchain) — The agent engineering platform. · `Python` · ⭐ 149k
-- [**github/spec-kit**](https://github.com/github/spec-kit) — 💫 Toolkit to help you get started with SDD or any other process! · `Python` · ⭐ 144k
-- [**openai/codex**](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · `Rust` · ⭐ 132k
+- [**github/spec-kit**](https://github.com/github/spec-kit) — 💫 Toolkit to help you get started with SDD or any other process! · `Python` · ⭐ 145k
+- [**openai/codex**](https://github.com/openai/codex) — Lightweight coding agent that runs in your terminal · `Rust` · ⭐ 133k
 - [**VoltAgent/awesome-design-md**](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. · 未标注语言 · ⭐ 125k
 - [**browser-use/browser-use**](https://github.com/browser-use/browser-use) — Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. · `Python` · ⭐ 120k
-- [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) — The open-source app everyone uses to manage agents at work · `TypeScript` · ⭐ 109k
+- [**paperclipai/paperclip**](https://github.com/paperclipai/paperclip) — The open-source app everyone uses to manage agents at work · `TypeScript` · ⭐ 110k
 - [**karpathy/autoresearch**](https://github.com/karpathy/autoresearch) — AI agents running research on single-GPU nanochat training automatically · `Python` · ⭐ 99k
 - [**unclecode/crawl4ai**](https://github.com/unclecode/crawl4ai) — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https: · `Python` · ⭐ 87k
 - [**lobehub/lobehub**](https://github.com/lobehub/lobehub) — 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. · `TypeScript` · ⭐ 84k
@@ -85,7 +85,7 @@
 - [**griffinmartin/opencode-claude-auth**](https://github.com/griffinmartin/opencode-claude-auth) — OpenCode 2 plugin that uses your existing Claude Code credentials — no separate login needed. · `TypeScript` · ⭐ 1.3k
 - [**xyTom/coding-tools-mcp**](https://github.com/xyTom/coding-tools-mcp) — Give any AI agent the ability to code · `Python` · ⭐ 1.2k
 - [**runningZ1/union-search-skill**](https://github.com/runningZ1/union-search-skill) — 一次搜索 51 个渠道，默认返回每个渠道取到的全部结果，再按页面地址去重。覆盖网页、GitHub、YouTube、知乎、播客和 AI 搜索。 · `Python` · ⭐ 766
-- [**yuyuanweb/ai-picture-editor**](https://github.com/yuyuanweb/ai-picture-editor) — 2026 年编程导航 AI 编程实战新项目，基于 React 19 + FastAPI + LangChain + LangGraph + Konva 的 AI 修图智能体，支持自然语言驱动修图、21 种编辑工具、文生图、智能抠图、图层拆分、区域编辑、多步计划。覆盖 AI Agent 架构、SSE 实时推送、异步任务队列、Canvas 画布引擎。用一套教程掌 · `Python` · ⭐ 304
+- [**yuyuanweb/ai-picture-editor**](https://github.com/yuyuanweb/ai-picture-editor) — 2026 年编程导航 AI 编程实战新项目，基于 React 19 + FastAPI + LangChain + LangGraph + Konva 的 AI 修图智能体，支持自然语言驱动修图、21 种编辑工具、文生图、智能抠图、图层拆分、区域编辑、多步计划。覆盖 AI Agent 架构、SSE 实时推送、异步任务队列、Canvas 画布引擎。用一套教程掌 · `Python` · ⭐ 305
 - [**wudy29/engineering-bridge**](https://github.com/wudy29/engineering-bridge) — 让 Chat 直接调度、监督本地 Codex / DSH：不再来回搬运提示词和结果，在对话中发起任务、审阅/修正补丁，确认 APPLY 后受控写入。 · `TypeScript` · ⭐ 133
 - [**xuanlinAI/overmind**](https://github.com/xuanlinAI/overmind) — 玄霖超脑 · 无量网络 v4 重构版— 66 模块6通道 AI 认知神经系统 · 装一次，你所有的 AI 工具从此共享一个永远不失忆的大脑。跨会话记忆 · 多 Agent 互通 · 自动代码审查 · 零配置 · `JavaScript` · ⭐ 86
 - [**vibe-plus/vibe-plus**](https://github.com/vibe-plus/vibe-plus) — A cross-platform desktop All-in-One assistant for Claude Code, Codex. · `Rust` · ⭐ 7
@@ -112,7 +112,7 @@
 - [**deepseek-ai/DeepInfer**](https://github.com/deepseek-ai/DeepInfer) — DeepInfer: High-performance, large-scale inference framework for DeepSeek models · `Python` · ⭐ 25k
 - [**HKUDS/RAG-Anything**](https://github.com/HKUDS/RAG-Anything) — "RAG-Anything: All-in-One RAG Framework" · `Python` · ⭐ 24k
 - [**xx025/carrot**](https://github.com/xx025/carrot) — AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源 · 未标注语言 · ⭐ 17k
-- [**YuJunZhiXue/dsh-purge**](https://github.com/YuJunZhiXue/dsh-purge) — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 · `JavaScript` · ⭐ 14k
+- [**YuJunZhiXue/dsh-purge**](https://github.com/YuJunZhiXue/dsh-purge) — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 · `JavaScript` · ⭐ 15k
 - [**OpenMOSS/MOSS**](https://github.com/OpenMOSS/MOSS) — An open-source, tool-augmented conversational language model from Fudan University · `Python` · ⭐ 12k
 - [**adams549659584/go-proxy-bingai**](https://github.com/adams549659584/go-proxy-bingai) — 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 · `HTML` · ⭐ 8.4k
 - [**interstellard/chatgpt-advanced**](https://github.com/interstellard/chatgpt-advanced) — WebChatGPT: A browser extension that augments your ChatGPT prompts with web results. · `TypeScript` · ⭐ 6.4k
@@ -150,7 +150,7 @@
 - [**google-ai-edge/litert-torch**](https://github.com/google-ai-edge/litert-torch) — Support PyTorch model conversion with LiteRT. · `Jupyter Notebook` · ⭐ 1.1k
 - [**Syencil/mobile-yolov5-pruning-distillation**](https://github.com/Syencil/mobile-yolov5-pruning-distillation) — mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！ · `Jupyter Notebook` · ⭐ 854
 - [**OptimalScale/DetGPT**](https://github.com/OptimalScale/DetGPT) — 暂无项目简介 · `Jupyter Notebook` · ⭐ 785
-- [**xahidbuffon/Awesome_Underwater_Datasets**](https://github.com/xahidbuffon/Awesome_Underwater_Datasets) — Pointers to large-scale underwater datasets and relevant resources. · 未标注语言 · ⭐ 712
+- [**xahidbuffon/Awesome_Underwater_Datasets**](https://github.com/xahidbuffon/Awesome_Underwater_Datasets) — Pointers to large-scale underwater datasets and relevant resources. · 未标注语言 · ⭐ 711
 - [**ucas-vg/PointTinyBenchmark**](https://github.com/ucas-vg/PointTinyBenchmark) — Point based and tiny object detection and localization code set of UCAS-VG · `Python` · ⭐ 699
 - [**gaia-solutions-on-demand/DFireDataset**](https://github.com/gaia-solutions-on-demand/DFireDataset) — D-Fire: an image data set for fire and smoke detection. · `Python` · ⭐ 474
 - [**neheller/kits19**](https://github.com/neheller/kits19) — The official repository of the 2019 Kidney and Kidney Tumor Segmentation Challenge · `Python` · ⭐ 464
@@ -192,7 +192,7 @@
 <summary><strong>展开项目清单</strong></summary>
 
 - [**google-research/tuning_playbook**](https://github.com/google-research/tuning_playbook) — A playbook for systematically maximizing the performance of deep learning models. · 未标注语言 · ⭐ 30k
-- [**k4yt3x/video2x**](https://github.com/k4yt3x/video2x) — A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. · `C++` · ⭐ 22k
+- [**k4yt3x/video2x**](https://github.com/k4yt3x/video2x) — A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. · `C++` · ⭐ 23k
 - [**linhandev/dataset**](https://github.com/linhandev/dataset) — 医学影像数据集列表 『An Index for Medical Imaging Datasets』 · 未标注语言 · ⭐ 3.6k
 - [**nndl/practice-in-paddle**](https://github.com/nndl/practice-in-paddle) — 《神经网络与深度学习：案例与实践》第一版（2022）配套代码：8 章 PaddlePaddle 实践。 · `Jupyter Notebook` · ⭐ 1.2k
 - [**52CV/CVPR-2023-Papers**](https://github.com/52CV/CVPR-2023-Papers) — 暂无项目简介 · 未标注语言 · ⭐ 936
@@ -235,10 +235,10 @@
 - [**2dust/v2rayNG**](https://github.com/2dust/v2rayNG) — A V2Ray client for Android, support Xray core and v2fly core · `Kotlin` · ⭐ 65k
 - [**gkd-kit/gkd**](https://github.com/gkd-kit/gkd) — 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules · `Kotlin` · ⭐ 44k
 - [**barry-ran/QtScrcpy**](https://github.com/barry-ran/QtScrcpy) — Android real-time display control software · `C++` · ⭐ 33k
-- [**RikkaApps/Shizuku**](https://github.com/RikkaApps/Shizuku) — Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process. · `Kotlin` · ⭐ 32k
+- [**RikkaApps/Shizuku**](https://github.com/RikkaApps/Shizuku) — Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process. · `Kotlin` · ⭐ 33k
 - [**mzlogin/awesome-adb**](https://github.com/mzlogin/awesome-adb) — ADB Usage Complete / ADB 用法大全 · 未标注语言 · ⭐ 13k
 - [**Ackites/Nrfr**](https://github.com/Ackites/Nrfr) — 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制 · `Kotlin` · ⭐ 9.4k
-- [**xigua222/photoo**](https://github.com/xigua222/photoo) — photoo 是一款 Android 原生的极简照片整理工具。滑动卡片就能快速整理相册——左滑删除，右滑收藏，上滑保留。还有一系列"该有的全都有"的功能：相册分析生成专属摄影画像、沉浸式回顾喜爱照片、智能识别相似照片和低质量图片、视频和图片压缩...... 但 photoo 不只是一个"清理"软件，它更是"回忆"。 · `Kotlin` · ⭐ 843
+- [**xigua222/photoo**](https://github.com/xigua222/photoo) — photoo 是一款 Android 原生的极简照片整理工具。滑动卡片就能快速整理相册——左滑删除，右滑收藏，上滑保留。还有一系列"该有的全都有"的功能：相册分析生成专属摄影画像、沉浸式回顾喜爱照片、智能识别相似照片和低质量图片、视频和图片压缩...... 但 photoo 不只是一个"清理"软件，它更是"回忆"。 · `Kotlin` · ⭐ 846
 - [**remember17/WHDebugTool**](https://github.com/remember17/WHDebugTool) — 🔨简单的调试小工具 · `Objective-C` · ⭐ 143
 - [**w311ang/VNC-Viewer_Android_zh-CN**](https://github.com/w311ang/VNC-Viewer_Android_zh-CN) — VNC Viewer (Android) 汉化 - 云乐工作室 出品 · `HTML` · ⭐ 58
 - [**yc0037/MiraiReplier**](https://github.com/yc0037/MiraiReplier) — 基于 Mirai 的 QQ 关键词回复插件。 · `Kotlin` · ⭐ 7
@@ -257,7 +257,7 @@
 <details>
 <summary><strong>展开项目清单</strong></summary>
 
-- [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) — A list of Free Software network services and web applications which can be hosted on your own servers · 未标注语言 · ⭐ 332k
+- [**awesome-selfhosted/awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) — A list of Free Software network services and web applications which can be hosted on your own servers · 未标注语言 · ⭐ 333k
 - [**yt-dlp/yt-dlp**](https://github.com/yt-dlp/yt-dlp) — A feature-rich command-line audio/video downloader · `Python` · ⭐ 204k
 - [**clash-verge-rev/clash-verge-rev**](https://github.com/clash-verge-rev/clash-verge-rev) — A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience · `Rust` · ⭐ 155k
 - [**2dust/v2rayN**](https://github.com/2dust/v2rayN) — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others · `C#` · ⭐ 120k
@@ -308,7 +308,7 @@
 - [**NaiboWang/EasySpider**](https://github.com/NaiboWang/EasySpider) — A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 · `JavaScript` · ⭐ 45k
 - [**iflow-ai/iflow-cli**](https://github.com/iflow-ai/iflow-cli) — iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boost · `Shell` · ⭐ 5.1k
 - [**bigintpro/csdn_downloader**](https://github.com/bigintpro/csdn_downloader) — csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://toolman.ddnsfree.com:9192/#/login?c=12 · `Java` · ⭐ 2.2k
-- [**namecallfilter/tiktokmodcloud**](https://github.com/namecallfilter/tiktokmodcloud) — Automated archive of TikTok Mod and Plugin APK files from TikTokModCloud. This repository includes a CLI tool for downloading the latest versions and automated workflows to maintai · `TypeScript` · ⭐ 469
+- [**namecallfilter/tiktokmodcloud**](https://github.com/namecallfilter/tiktokmodcloud) — Automated archive of TikTok Mod and Plugin APK files from TikTokModCloud. This repository includes a CLI tool for downloading the latest versions and automated workflows to maintai · `TypeScript` · ⭐ 471
 - [**LewisGu/CSDNDownloader**](https://github.com/LewisGu/CSDNDownloader) — CSDN博客下载助手 · `Python` · ⭐ 33
 - [**ssm0801/ScriptAllTheThings**](https://github.com/ssm0801/ScriptAllTheThings) — A amazing collection of Python Scripts. Make your life easier with scripts. · `Python` · ⭐ 15
 
