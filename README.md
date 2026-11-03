@@ -51,7 +51,7 @@
 <!-- AUTO:RADAR:START -->
 <div align="center">
 
-[![公开仓库](https://img.shields.io/badge/公开仓库-32-181717?style=flat-square&logo=github)](https://github.com/HappyStupidChild?tab=repositories)
+[![公开仓库](https://img.shields.io/badge/公开仓库-33-181717?style=flat-square&logo=github)](https://github.com/HappyStupidChild?tab=repositories)
 [![Fork](https://img.shields.io/badge/Fork-31-2563EB?style=flat-square&logo=git)](https://github.com/HappyStupidChild?tab=repositories&type=fork)
 [![Star 收藏](https://img.shields.io/badge/Star_收藏-186-FFB000?style=flat-square&logo=githubsponsors)](https://github.com/HappyStupidChild?tab=stars)
 [![兴趣分类](https://img.shields.io/badge/兴趣分类-10-7C3AED?style=flat-square&logo=radar)](./STAR-CATALOG.md)
@@ -64,7 +64,9 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI、智能体与研究</h3>
-      <p><a href="https://github.com/HappyStupidChild/rea"><code>rea</code></a>
+      <p><a href="https://github.com/HappyStupidChild/quwei"><code>quwei</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/rea"><code>rea</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/coding-tools-mcp"><code>coding tools mcp</code></a>
         &nbsp;·&nbsp;
