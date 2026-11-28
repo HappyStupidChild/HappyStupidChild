@@ -114,15 +114,15 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 网络、代理与下载</h3>
-      <p><a href="https://github.com/HappyStupidChild/EasyCLIProxyAPI"><code>EasyCLIProxyAPI</code></a>
+      <p><a href="https://github.com/HappyStupidChild/FlClash"><code>FlClash</code></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/HappyStupidChild/EasyCLIProxyAPI"><code>EasyCLIProxyAPI</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/cpa-usage-keeper"><code>cpa usage keeper</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/CLIProxyAPI"><code>CLIProxyAPI</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/yt-dlp"><code>yt dlp</code></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/HappyStupidChild/FlClash"><code>FlClash</code></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/HappyStupidChild/v2rayN"><code>v2rayN</code></a>
         &nbsp;·&nbsp;
